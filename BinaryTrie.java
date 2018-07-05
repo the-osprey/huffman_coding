@@ -5,7 +5,7 @@ import java.util.PriorityQueue;
 
 public class BinaryTrie implements Serializable {
     //@Source: Princeton Algo's Huffmann.java was instrumental
-    //in building this class (as was suggested in the spec)
+    //in building this class
 
     private Node trie;
     private Map<Character, BitSequence> lookupTable = new HashMap<>();
