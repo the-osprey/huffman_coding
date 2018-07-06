@@ -13,3 +13,5 @@ this takes an encoded file, and then decodes it to regular text. More generally:
 running "java HuffmanEncoder FILENAME.txt" returns an encoded FILENAME.txt.huf file
 
 running "java HuffmanDecoder FILENAME.txt.huf NEWNAME.txt" decodes it. 
+
+Some issues with getting dependencies to run, fix incoming
